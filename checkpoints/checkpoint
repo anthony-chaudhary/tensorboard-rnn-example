@@ -1,0 +1,3 @@
+model_checkpoint_path: "i400_l512.ckpt"
+all_model_checkpoint_paths: "i200_l512.ckpt"
+all_model_checkpoint_paths: "i400_l512.ckpt"
